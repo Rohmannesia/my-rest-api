@@ -27,7 +27,7 @@
           } else {
             textnya.textContent = '[ INFO ] Apikey anda tidak valid!'
             swal("Apikey Tidak Valid!", "", "error");
-            alert('Apikey Tidak Valid. Silahkan beli apikey ke Instagram @rohmanzx_offici');
+            alert('Apikey Tidak Valid. Silahkan beli apikey ke Instagram @rohmanzx_official');
             amlert.classList.remove('hideop')
           }
         };
